@@ -1,0 +1,8 @@
+matplotlib=3.3.4=pypi_0
+networkx=2.4=py_1
+numpy=1.18.5=py38h1da2735_0
+scikit-learn=0.23.1=py38h603561c_0
+scipy=1.5.0=py38hbab996c_0
+sklearn=0.0=pypi_0
+statsmodels=0.11.1=py38haf1e3a3_0
+torchvision=0.7.0=py38_cpu
