@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Model Training & Testing
 
-Hyperparamters can be sent through command line or can be changed in the train files itself. Exact values to be used is given in the appendix of the [https://arxiv.org/abs/2012.03506][paper].
+Hyperparamters can be sent through command line or can be changed in the train files itself. Exact values to be used is given in the appendix of the ![paper][https://arxiv.org/abs/2012.03506].
 
 - DGLR (Shared)
 ```
