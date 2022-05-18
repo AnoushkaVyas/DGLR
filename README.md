@@ -80,4 +80,4 @@ python train_graphrefine_smoothness.py --dataset Mississippi --nofstations 5
 ```
 
 ## Training Details
-We have run all the experiments on a CPU with 2.6GHz 6-core Intel Core i7. We conduct  extensive hyperparameter tuning for all the baseline algorithms and report the best results obtained Detailed hyperparameter set up is given in the supplementary material. 
+We have run all the experiments on a CPU with 2.6GHz 6-core Intel Core i7. We conduct  extensive hyperparameter tuning for all the baseline algorithms and report the best results obtained. Detailed hyperparameter set up is given in the appendix of the [paper](https://arxiv.org/abs/2012.03506).
