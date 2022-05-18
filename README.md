@@ -1,4 +1,4 @@
-# Dynamic Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture
+# Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture
 
 This is a Pytorch implementation of Spatio-temporal graph neural networks to estimate soil moisture
 
